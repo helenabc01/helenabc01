@@ -11,7 +11,7 @@ I'm a high school student in the 3rd year at **GerminareTECH**, passionate about
 **Back-End:**  
 - TypeScript (NestJS)
 - Java
-- TypeScript/Node.js ORM
+- Prisma (TypeScript/Node.js ORM)
 - WebSockets (Real-time Communication with Clients)
   
 **Data & Analysis:**  

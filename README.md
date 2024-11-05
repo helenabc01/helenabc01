@@ -2,7 +2,7 @@
 
 I'm a high school student in the third year at **GerminareTECH**.
 
-### **Tech Stack**  
+### **My Toolbox**  
 
 **Front-End:**  
 - JavaScript, TypeScript, HTML, CSS  

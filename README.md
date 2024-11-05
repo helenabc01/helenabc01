@@ -12,7 +12,6 @@ I'm a high school student in the 3rd year at **GerminareTECH**, passionate about
 - TypeScript (NestJS)
 - Java
 - Prisma (ORM para TypeScript/Node.js)
-- WebSocket
   
 **Data & Analysis:**  
 - Databases: SQL, MongoDB, Redis  

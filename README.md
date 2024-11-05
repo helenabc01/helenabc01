@@ -19,7 +19,9 @@ I'm a high school student in the 3rd year at **GerminareTECH**, passionate about
 - Analysis: Python (Pandas, Matplotlib), PowerBI
 
 **Infra:**
-- Docker, Git, Kafka
+- Docker
+- Git
+- Kafka
 
 **Mobile:**
 - Flutter/Dart

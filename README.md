@@ -21,11 +21,16 @@ I'm a high school student in the 3rd year at **GerminareTECH**, passionate about
 **Infra:**
 - Docker
 - Git
-- Kafka
+- Azure
 
 **Mobile:**
 - Flutter/Dart
 - Java/XML
+
+**Others:**
+- Discord bot
+- Kafka
+
 
 The projects I deployed here are for my own train. Hope you like them!
 <p> Thanks for reading!</p>

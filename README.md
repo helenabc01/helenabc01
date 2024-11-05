@@ -12,6 +12,7 @@ I'm a high school student in the 3rd year at **GerminareTECH**, passionate about
 - TypeScript (NestJS)
 - Java
 - Prisma (ORM for TypeScript/Node.js)
+- WebSockets (Real-time Communication with Clients)
   
 **Data & Analysis:**  
 - Databases: SQL, MongoDB, Redis  
@@ -22,6 +23,7 @@ I'm a high school student in the 3rd year at **GerminareTECH**, passionate about
 
 **Mobile:**
 - Flutter/Dart
+- Java/XML
 
 The projects I deployed here are for my own train. Hope you like them!
 <p> Thanks for reading!</p>

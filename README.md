@@ -16,7 +16,7 @@ I'm a high school student in the 3rd year at **GerminareTECH**, passionate about
   
 **Data & Analysis:**  
 - Databases: SQL, MongoDB, Redis  
-- Analysis: Python (Pandas, Matplotlib), PowerBI
+- Analysis: Python (Pandas w/ Numpy, Matplotlib), PowerBI
 
 **Infra:**
 - Docker

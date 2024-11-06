@@ -30,7 +30,7 @@ I'm a high school student in the 3rd year at **GerminareTECH**, passionate about
 **Others:**
 - Discord bot
 - Kafka
-
+- Figma
 
 The projects I deployed here are for my own train. Hope you like them!
 <p> Thanks for reading!</p>
